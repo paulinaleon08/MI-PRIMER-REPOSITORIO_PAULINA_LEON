@@ -1,0 +1,6 @@
+id_cliente,nombres,apellidos,correo,ciudad
+101,Ana,Lopez,ana.lopez@example.com,Guayaquil
+102,Carlos,Garcia,carlos.garcia@example.com,Quito
+103,Maria,Torres,maria.torres@example.com,Cuenca
+104,Jose,Castro,jose.castro@example.com,Ambato
+105,Lucia,Mendoza,lucia.mendoza@example.com,Loja
